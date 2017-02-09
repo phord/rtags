@@ -230,7 +230,6 @@ static const char *blacklist[] = {
     "-fvar-tracking-assignments",
     "-fvar-tracking-assignments-toggle",
     "-gcc-toolchain",
-    "-march=",
     "-masm=",
     "-mcpu=",
     "-mfpmath=",
